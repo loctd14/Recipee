@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Recipee</string>
+
+    <string name="text_loading">Loading…</string>
+    <string name="text_add_recipe">Add Recipe</string>
+    <string name="text_edit_recipe">Edit Recipe</string>
+    <string name="text_delete">Delete</string>
+    <string name="text_detail">Detail</string>
+    <string name="text_name_label">Name:</string>
+    <string name="text_category_label">Category:</string>
+    <string name="text_image_label">Image:</string>
+    <string name="text_ingredient">Ingredient</string>
+    <string name="text_steps">Steps</string>
+    <string name="text_step">Step</string>
+    <string name="text_ingredient_amount">Amount</string>
+    <string name="text_step_description">Description</string>
+    <string name="text_add_action">Add</string>
+    <string name="text_save_action">Save</string>
+    <string name="text_search_image">Search Image</string>
+    <string name="text_search">Search</string>
+    <string name="text_enter_image_url">Enter Image URL</string>
+    <string name="text_add_ingredient">Add Ingredient</string>
+    <string name="text_edit_ingredient">Edit Ingredient</string>
+    <string name="text_add_step">Add Step</string>
+    <string name="text_edit_step">Edit Step</string>
+    <string name="text_hint_search_recipe">Search by category</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipes>
+    <recipe>
+        <recipeID>RCCF2020220201021111</recipeID>
+        <name>Latte</name>
+        <category>Coffee</category>
+        <ingredients>
+            <ingredient>
+                <name>Coffee</name>
+                <amount>200ML</amount>
+            </ingredient>
+            <ingredient>
+                <name>Milk</name>
+                <amount>13 ounces</amount>
+            </ingredient>
+            <ingredient>
+                <name>Sugar</name>
+                <amount>4 tablespoons</amount>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step>
+                <name>Brew coffee</name>
+                <description>Using capsule machine</description>
+            </step>
+            <step>
+                <name>Froth the milk</name>
+                <description>Pour into jar, screw the lid then shake for 30-60 seconds</description>
+            </step>
+            <step>
+                <name>Microwave the milk</name>
+                <description>Microwave uncovered for 30 seconds</description>
+            </step>
+            <step>
+                <name>Pour warm milk into coffee</name>
+                <description>Pour as much warm milk as you would like into the coffee</description>
+            </step>
+        </steps>
+        <url>https://kinhdoanhcafe.com/wp-content/uploads/2019/10/cach-pha-che-cafe-latte.jpg</url>
+    </recipe>
+</recipes>
